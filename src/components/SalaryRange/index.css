@@ -1,0 +1,4 @@
+.checkrow {
+  display: flex;
+  flex-direction: row;
+}

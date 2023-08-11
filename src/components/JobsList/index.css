@@ -1,0 +1,64 @@
+.companyHead {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  background-size: cover;
+  padding: 20px;
+  justify-content: space-between;
+  color: white;
+  margin: 10px;
+  border-radius: 10px;
+  width: 70vw;
+}
+
+.head1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 18vw;
+  padding: 15px;
+}
+
+.logo {
+  width: 70px;
+  height: 80px;
+}
+
+.starIcon {
+  height: 50px;
+  width: 50px;
+  color: yellow;
+}
+
+.star {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 40px;
+}
+
+.secondTheme {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 40vw;
+}
+
+.inside {
+  display: flex;
+  flex-direction: row;
+  width: 40vw;
+}
+
+.workIcon {
+  height: 50px;
+  width: 50px;
+  color: white;
+}
+
+.inside2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20vw;
+}
